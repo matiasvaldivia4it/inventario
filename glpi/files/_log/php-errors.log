@@ -1,0 +1,12 @@
+[2021-04-28 12:10:04] glpiphplog.WARNING: Test logger  
+[2021-04-28 12:16:50] glpiphplog.WARNING: Test logger  
+[2021-04-28 13:22:29] glpiphplog.ERROR: Plugin::getInfo() in /var/www/html/glpi/inc/plugin.class.php line 1476
+plugin_version_fusioninventory-for-glpi-glpi9.5-3.0 method must be defined!  {"user":"2@0052b32c1baa"} 
+[2021-04-28 13:22:35] glpiphplog.ERROR: Plugin::getInfo() in /var/www/html/glpi/inc/plugin.class.php line 1476
+plugin_version_fusioninventory-for-glpi-glpi9.5-3.0 method must be defined!  {"user":"2@0052b32c1baa"} 
+[2021-04-28 13:22:37] glpiphplog.ERROR: Plugin::getInfo() in /var/www/html/glpi/inc/plugin.class.php line 1476
+plugin_version_fusioninventory-for-glpi-glpi9.5-3.0 method must be defined!  {"user":"2@0052b32c1baa"} 
+[2021-04-28 13:22:39] glpiphplog.ERROR: Plugin::getInfo() in /var/www/html/glpi/inc/plugin.class.php line 1476
+plugin_version_fusioninventory-for-glpi-glpi9.5-3.0 method must be defined!  {"user":"2@0052b32c1baa"} 
+[2021-04-28 13:22:46] glpiphplog.ERROR: Plugin::getInfo() in /var/www/html/glpi/inc/plugin.class.php line 1476
+plugin_version_fusioninventory-for-glpi-glpi9.5-3.0 method must be defined!  {"user":"2@0052b32c1baa"} 
